@@ -1,63 +1,165 @@
-<h1 align="center">Hi there 👋, I'm Megharaj Patil</h1>
+<h1 align="center">
+  Hi 👋, I'm Megharaj Patil
+</h1>
+
+<h3 align="center">
+  Software Engineering Intern | ML & Backend Developer | System Builder
+</h3>
 
 <p align="center">
-  👨‍💻 Computer Engineering Student | 💻 Full-Stack Developer | 📊 Data Science Enthusiast
+  <a href="https://github.com/Megharaj30">
+    <img src="https://komarev.com/ghpvc/?username=Megharaj30&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Engineer;Backend+API+Builder;Always+Learning+Always+Shipping" />
 </p>
 
 ---
 
-### 🧑‍🎓 About Me
+## 🧠 About Me
 
-- 🎓 Computer Engineering student at **Wadia College of Engineering, Pune**  
-- 💡 Passionate about building web apps, solving real-world problems, and exploring data science  
-- 🛠️ Skilled in **Java, Python, C++, JavaScript, React.js, Node.js, MongoDB, MySQL**
-- 🤖 Experienced with machine learning models and deploying them using Flask  
-- 🌱 Currently exploring: **DevOps tools, System Design, and Advanced ML models**
-
----
-
-### 🔧 Tech Stack
-
-- **Languages:** Python, Java, C++, JavaScript, PHP, SQL  
-- **Frontend:** HTML, CSS, React.js  
-- **Backend:** Node.js, Express.js, Flask, PHP  
-- **Database:** MySQL, MongoDB  
-- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Tools:** Git, GitHub, Docker, VS Code, Postman
+- 🎓 B.E. Computer Engineering (2022–2026), Wadia College of Engineering, Pune  
+- 💼 Software Development Intern at **Axiometry AI Pvt. Ltd.**  
+- 🔍 Strong focus on **Backend Systems, Machine Learning Pipelines, and API Design**  
+- 🚀 I enjoy turning messy data and vague requirements into **working systems**  
 
 ---
 
-### 📌 Projects
+## 🛠 Tech Stack
 
-- 🔗 **[Blood Donation Management System](#)**  
-  `React.js · Node.js · MongoDB` – Real-time platform for donor-recipient matching with admin panel
+### 🔹 Programming & Core
+`Python` `C++` `JavaScript` `SQL`
 
-- 🔗 **[Carbon Footprint Calculator](#)**  
-  `PHP · MySQL · HTML/CSS` – Calculates carbon footprint based on user activity with sustainability tips
+### 🔹 Backend & APIs
+`Flask` `Node.js` `Express.js` `REST APIs`
 
-- 🔗 **[Flight Price Predictor](#)**  
-  `Flask · Python · ML` – Predicts flight prices using Random Forest trained on 300k+ records
+### 🔹 Frontend
+`HTML` `CSS` `React.js`
+
+### 🔹 Data Science & ML
+`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `NLP`
+
+### 🔹 Databases & Tools
+`MySQL` `MongoDB` `Git` `GitHub` `Docker` `Postman` `Jupyter`
 
 ---
 
-### 📈 GitHub Stats
+## ⚡ Live Developer Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Megharaj30&show_icons=true&theme=react" alt="Megharaj's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Megharaj30&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Megharaj30&show_icons=true&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Megharaj30&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Megharaj30&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 🐍 Contribution Flow
 
-- 📧 Email: [patilmegharaj90@gmail.com](mailto:patilmegharaj90@gmail.com)  
-- 🌐 Portfolio: [megharaj-portfolio.vercel.app](https://megharaj-portfolio.vercel.app)  
-- 💼 LinkedIn: [Megharaj Patil](https://www.linkedin.com/in/megharaj-patil)  
-- 🧑‍💻 GitHub: [Megharaj30](https://github.com/Megharaj30)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Megharaj30/Megharaj30/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile! Feel free to check out my repositories and connect with me for collaboration.*
+## 📌 Featured Projects
 
+<details>
+<summary><strong>🧠 Conversational AI Chatbot</strong></summary>
+
+- Tech: React.js, Node.js, Express.js, REST APIs, LLM API  
+- Real-time conversational system with secure API integration  
+- Designed scalable backend endpoints and frontend interaction flow  
+
+</details>
+
+<details>
+<summary><strong>✈️ Flight Price Prediction System</strong></summary>
+
+- Tech: Python, Machine Learning, Flask  
+- End-to-end ML pipeline with feature engineering & regression models  
+- Achieved **R² score of 0.98** on test data  
+- Flask-based API for real-time prediction  
+
+</details>
+
+<details>
+<summary><strong>📄 Document Summarization System</strong></summary>
+
+- Tech: Python, NLP, Streamlit  
+- Extractive summarization for PDF & text documents  
+- Text preprocessing, sentence scoring & UI integration  
+
+</details>
+
+<details>
+<summary><strong>🌱 Carbon Footprint Calculator</strong></summary>
+
+- Tech: PHP, MySQL, HTML, CSS, JavaScript  
+- Secure authentication, session handling & emission computation  
+- Sustainability-focused user experience  
+
+</details>
+
+---
+
+## 🧪 Currently Building
+
+- 🔧 Dockerized ML services for production use  
+- 📊 Improving ML model evaluation & monitoring  
+- ⚙️ Backend APIs with better scalability & logging  
+
+---
+
+## 🧠 CS Fundamentals
+
+- Object-Oriented Programming  
+- Data Structures & Algorithms  
+- Database Management Systems  
+- Operating Systems  
+- REST API Design  
+
+---
+
+## 📄 Publications
+
+- **Web-based Crop Disease Detection**  
+  International Journal of Neural Systems and Applications (IJNSA), 2025  
+
+---
+
+## 📜 Certifications
+
+- Artificial Intelligence – Infosys Foundation Finishing School  
+- Machine Learning Specialization – Stanford University & DeepLearning.AI *(Ongoing)*  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:patilmegharaj90@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/megharaj-patil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Megharaj30">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://megharaj-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ *Always open to learning, collaboration, and challenging problems.*
