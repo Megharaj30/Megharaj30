@@ -1,165 +1,118 @@
-<h1 align="center">
-  Hi 👋, I'm Megharaj Patil
-</h1>
+<div align="center">
 
-<h3 align="center">
-  Software Engineering Intern | ML & Backend Developer | System Builder
-</h3>
+<img src="./assets/ambient.svg" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/Megharaj30">
-    <img src="https://komarev.com/ghpvc/?username=Megharaj30&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+<h1>Megharaj Patil</h1>
+
+<p>
+Machine Learning & Backend Engineering<br/>
+Building systems where models meet production
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Engineer;Backend+API+Builder;Always+Learning+Always+Shipping" />
+<br/>
+
+<p>
+<i>From data pipelines to APIs — focused on correctness, scalability, and clarity.</i>
 </p>
 
----
-
-## 🧠 About Me
-
-- 🎓 B.E. Computer Engineering (2022–2026), Wadia College of Engineering, Pune  
-- 💼 Software Development Intern at **Axiometry AI Pvt. Ltd.**  
-- 🔍 Strong focus on **Backend Systems, Machine Learning Pipelines, and API Design**  
-- 🚀 I enjoy turning messy data and vague requirements into **working systems**  
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## About
 
-### 🔹 Programming & Core
-`Python` `C++` `JavaScript` `SQL`
+I am a Computer Engineering undergraduate (2022–2026) with hands-on experience in  
+**machine learning pipelines, backend APIs, and full-stack systems**.
 
-### 🔹 Backend & APIs
-`Flask` `Node.js` `Express.js` `REST APIs`
+Currently working as a **Software Development Intern at Axiometry AI Pvt. Ltd.**,  
+where I contribute to data preprocessing, model development, and system integration  
+for real-world AI applications.
 
-### 🔹 Frontend
-`HTML` `CSS` `React.js`
-
-### 🔹 Data Science & ML
-`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `NLP`
-
-### 🔹 Databases & Tools
-`MySQL` `MongoDB` `Git` `GitHub` `Docker` `Postman` `Jupyter`
+I care deeply about:
+- clean system design  
+- reproducible ML workflows  
+- production-ready code  
 
 ---
 
-## ⚡ Live Developer Activity
+## Core Knowledge Graph
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Megharaj30&show_icons=true&theme=react&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Megharaj30&theme=react&hide_border=true" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,flask,mysql,mongodb,docker,git,linux" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Megharaj30&theme=react-dark&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Flow
+## Machine Learning Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Megharaj30/Megharaj30/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-<details>
-<summary><strong>🧠 Conversational AI Chatbot</strong></summary>
-
-- Tech: React.js, Node.js, Express.js, REST APIs, LLM API  
-- Real-time conversational system with secure API integration  
-- Designed scalable backend endpoints and frontend interaction flow  
-
-</details>
-
-<details>
-<summary><strong>✈️ Flight Price Prediction System</strong></summary>
-
-- Tech: Python, Machine Learning, Flask  
-- End-to-end ML pipeline with feature engineering & regression models  
-- Achieved **R² score of 0.98** on test data  
-- Flask-based API for real-time prediction  
-
-</details>
-
-<details>
-<summary><strong>📄 Document Summarization System</strong></summary>
-
-- Tech: Python, NLP, Streamlit  
-- Extractive summarization for PDF & text documents  
-- Text preprocessing, sentence scoring & UI integration  
-
-</details>
-
-<details>
-<summary><strong>🌱 Carbon Footprint Calculator</strong></summary>
-
-- Tech: PHP, MySQL, HTML, CSS, JavaScript  
-- Secure authentication, session handling & emission computation  
-- Sustainability-focused user experience  
-
-</details>
+TensorFlow · PyTorch · Scikit-learn · Pandas · NumPy  
+Hugging Face · NLP · Feature Engineering · Model Evaluation  
 
 ---
 
-## 🧪 Currently Building
+## Selected Work
 
-- 🔧 Dockerized ML services for production use  
-- 📊 Improving ML model evaluation & monitoring  
-- ⚙️ Backend APIs with better scalability & logging  
+### Flight Price Prediction System
+- Designed an end-to-end regression pipeline on large-scale datasets  
+- Applied feature engineering and model optimization  
+- Achieved **R² = 0.98** on unseen test data  
+- Deployed predictions via Flask-based API  
+
+**Focus:** ML lifecycle · Evaluation · Deployment
 
 ---
 
-## 🧠 CS Fundamentals
+### Conversational AI Chatbot
+- Built a full-stack conversational system using LLM-based APIs  
+- Designed RESTful backend endpoints for real-time interaction  
+- Integrated frontend and backend with secure request handling  
+
+**Focus:** API design · Integration · Scalability
+
+---
+
+### Document Summarization System
+- NLP-based extractive summarization for PDF and text documents  
+- Implemented preprocessing, sentence ranking, and scoring  
+- Interactive Streamlit interface  
+
+**Focus:** NLP pipelines · Usability
+
+---
+
+## Currently Exploring
+
+- Containerizing ML systems with Docker  
+- Improving ML evaluation and error analysis  
+- Backend system design and logging patterns  
+
+---
+
+## Foundations
 
 - Object-Oriented Programming  
 - Data Structures & Algorithms  
 - Database Management Systems  
 - Operating Systems  
-- REST API Design  
+- RESTful API Design  
 
 ---
 
-## 📄 Publications
+## Publication
 
-- **Web-based Crop Disease Detection**  
-  International Journal of Neural Systems and Applications (IJNSA), 2025  
-
----
-
-## 📜 Certifications
-
-- Artificial Intelligence – Infosys Foundation Finishing School  
-- Machine Learning Specialization – Stanford University & DeepLearning.AI *(Ongoing)*  
+**Web-based Crop Disease Detection**  
+International Journal of Neural Systems and Applications (IJNSA), 2025  
 
 ---
 
-## 📫 Connect With Me
+## Contact
 
-<p align="center">
-  <a href="mailto:patilmegharaj90@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/megharaj-patil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Megharaj30">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://megharaj-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+- Email: patilmegharaj90@gmail.com  
+- LinkedIn: linkedin.com/in/megharaj-patil  
+- Portfolio: megharaj-portfolio.vercel.app  
 
 ---
 
-⭐ *Always open to learning, collaboration, and challenging problems.*
+<sub>Open to Backend / ML Internship Opportunities</sub>
