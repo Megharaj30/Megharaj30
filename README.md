@@ -1,118 +1,70 @@
-<div align="center">
+<h1 align="center">Hi, I'm Megharaj Patil 👋</h1>
 
-<img src="./assets/ambient.svg" width="100%" />
-
-<h1>Megharaj Patil</h1>
-
-<p>
-Machine Learning & Backend Engineering<br/>
-Building systems where models meet production
+<p align="center">
+  ML & Backend Engineering · Building Practical Systems
 </p>
 
-<br/>
+---
 
-<p>
-<i>From data pipelines to APIs — focused on correctness, scalability, and clarity.</i>
-</p>
+## 💫 About Me
 
-</div>
+- ML & backend engineering focus  
+- Building production-ready systems  
+- Turning data into deployed solutions  
+- Learning, shipping, improving  
 
 ---
 
-## About
+## 🌐 Socials
 
-I am a Computer Engineering undergraduate (2022–2026) with hands-on experience in  
-**machine learning pipelines, backend APIs, and full-stack systems**.
-
-Currently working as a **Software Development Intern at Axiometry AI Pvt. Ltd.**,  
-where I contribute to data preprocessing, model development, and system integration  
-for real-world AI applications.
-
-I care deeply about:
-- clean system design  
-- reproducible ML workflows  
-- production-ready code  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/megharaj-patil)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/megharaj_30)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patilmegharaj90@gmail.com)
 
 ---
 
-## Core Knowledge Graph
+## 💻 Tech Stack
 
-<div align="center">
+### Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,flask,mysql,mongodb,docker,git,linux" />
+### Frameworks & APIs
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</div>
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
----
+### ML & Data
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-## Machine Learning Stack
-
-TensorFlow · PyTorch · Scikit-learn · Pandas · NumPy  
-Hugging Face · NLP · Feature Engineering · Model Evaluation  
-
----
-
-## Selected Work
-
-### Flight Price Prediction System
-- Designed an end-to-end regression pipeline on large-scale datasets  
-- Applied feature engineering and model optimization  
-- Achieved **R² = 0.98** on unseen test data  
-- Deployed predictions via Flask-based API  
-
-**Focus:** ML lifecycle · Evaluation · Deployment
-
----
-
-### Conversational AI Chatbot
-- Built a full-stack conversational system using LLM-based APIs  
-- Designed RESTful backend endpoints for real-time interaction  
-- Integrated frontend and backend with secure request handling  
-
-**Focus:** API design · Integration · Scalability
+### Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ---
 
-### Document Summarization System
-- NLP-based extractive summarization for PDF and text documents  
-- Implemented preprocessing, sentence ranking, and scoring  
-- Interactive Streamlit interface  
+## 📊 GitHub Stats
 
-**Focus:** NLP pipelines · Usability
-
----
-
-## Currently Exploring
-
-- Containerizing ML systems with Docker  
-- Improving ML evaluation and error analysis  
-- Backend system design and logging patterns  
+![](https://github-readme-stats.vercel.app/api?username=Megharaj30&theme=tokyonight&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Megharaj30&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Megharaj30&theme=tokyonight&layout=compact)
 
 ---
 
-## Foundations
-
-- Object-Oriented Programming  
-- Data Structures & Algorithms  
-- Database Management Systems  
-- Operating Systems  
-- RESTful API Design  
-
----
-
-## Publication
-
-**Web-based Crop Disease Detection**  
-International Journal of Neural Systems and Applications (IJNSA), 2025  
-
----
-
-## Contact
-
-- Email: patilmegharaj90@gmail.com  
-- LinkedIn: linkedin.com/in/megharaj-patil  
-- Portfolio: megharaj-portfolio.vercel.app  
-
----
-
-<sub>Open to Backend / ML Internship Opportunities</sub>
+<sub>Focused on ML & Backend internship opportunities.</sub>
